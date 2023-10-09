@@ -1,1 +1,3 @@
 # Visual_Concept_Learning_Handwritten_Letter_Recognition
+
+As we know, supervised learning has been proven to be beneficial in the field of machine learning, but the need for large amounts of labeled data can be a limitation. As a result, unsupervised learning is becoming more favorable. The project being described involves introducing models to improve handwriting recognition using the EMNIST dataset. These models include a Deep Belief Network with multiple layers and linear readouts, as well as Feed Forward Neural Networks and Perceptron models. Additionally, the text notes that the robustness of these models against noise will be explored, including both Gaussian noise and adversarial attacks.
